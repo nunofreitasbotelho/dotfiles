@@ -11,6 +11,10 @@ cask=(
     "visual-studio-code"
     "transmission"
     "spotify"
+    "appcleaner"
+    "spectacle"
+    "vlc"
+    "slack"
 )
 
 for app in "${cask[@]}"; do
